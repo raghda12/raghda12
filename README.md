@@ -13,24 +13,45 @@ new tools and technologies to improve my workflow. 🚀
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
-- HTML5  
-- CSS3  
-- Tailwind CSS  
-- JavaScript (ES6+)  
-- React.js  
+<p align="left">
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
 
-### **Tools**
-- Visual Studio Code  
-- Git & GitHub  
-- Chrome DevTools  
+  <!-- CSS -->
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+
+  <!-- Tailwind -->
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+
+  <!-- JavaScript -->
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+
+  <!-- React -->
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+
+  <!-- Git -->
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+
+  <!-- GitHub -->
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent" height="150" />
+</p>
 
 ---
 
 ## 📞 Contact With Me
-- **GitHub:** https://github.com/yourusername  
-- **Email:** your-email@example.com  
-- **LinkedIn:** https://www.linkedin.com/in/yourusername  
+- **GitHub:** https://github.com/raghda12
+- **Email:** raghdaiyadalnjjar@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/raghda-alnajjar
 
 ---
 
