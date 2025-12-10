@@ -41,9 +41,9 @@ new tools and technologies to improve my workflow. 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raghda12&show_icons=true&theme=transparent" height="150" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghda12&layout=compact&theme=transparent" height="150" />
 </p>
 
 ---
@@ -51,7 +51,7 @@ new tools and technologies to improve my workflow. 🚀
 ## 📞 Contact With Me
 - **GitHub:** https://github.com/raghda12
 - **Email:** raghdaiyadalnjjar@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/raghda-alnajjar
+- **LinkedIn:** https://www.linkedin.com/in/raghda-alnajjar-30a96a24a
 
 ---
 
